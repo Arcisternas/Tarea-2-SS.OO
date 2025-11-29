@@ -3,7 +3,7 @@
 
 # Ejercicio 2
 
-Compilación sencilla:
+## Compilación sencilla:
 ```sh
 gcc "Ejercicio 2/src/main.c" "Ejercicio 2/src/Algoritmos.c" -I"Ejercicio 2/include" -o Ejercicio2
 ```
