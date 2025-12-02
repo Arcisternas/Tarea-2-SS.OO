@@ -32,6 +32,8 @@ Salida esperada:
 
 # Ejercicio 2
 
+Estos comando estan destinados a un entorno de desarrollo Linux/mac, en windows los slash (/) se deben cambiar por un backslash (\\).
+
 ## Compilación sencilla:
 ```sh
 gcc "Ejercicio 2/src/main.c" "Ejercicio 2/src/Algoritmos.c" -I"Ejercicio 2/include" -o Ejercicio2
